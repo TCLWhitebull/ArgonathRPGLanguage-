@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Du hast dich erfolgreich eingeloggt, {Player Name}
+LOGIN_WELCM2 - Willkommen bei Argonath RPG RS5!
+LOGIN_MFERR1 - Der Multifaktor-Verifizierungsservice ist momentan offline. Versuche es bitte später nochmal.
+LOGIN_MFERR2 - Fehler: Dieser Code war fehlerhaft!
+LOGIN_MF1    - Dein Account besitzt eine Multifaktor-Authentifizierung
+LOGIN_PASSER1- Fehler: Deine Passwörter stimmten nicht überein! Beachte die Gross- und Kleinschreibung
+LOGIN_PASSER2- Fehler: Du hast ein falsches Passwort eingegeben.
+LOGIN_PASS2  - Bitte wiederhole dein gewähltes Passwort.
+LOGIN_QUIT   - Bist du sicher, dass du den Server verlassen willst?
+LOGIN_ADULT  - Achtung: Dieser Server enthält anstößige Elemente, welche nur für Erwachsene angemessen sein können.
+LOGIN_BYE1   - Du hast den Server verlassen.
+ERROR_NOTLOG - Fehler: Du bist nicht eingeloggt.
+ERROR_KICK   - Fehler: Du kannst den Befehl momentan nicht ausführen.
+ECON_RELOAD  - [WARNUNG] Deine wirtschaftlichen Daten werden erneut geladen, finanzielle Aktionen sind zur Zeit nicht verfügbar.
+TXT_Login0   - Willkommen bei Argonath RPG
+TXT_Login1   - Eine eigene Welt 
+CMD_TIME     - Die Echtzeit lautet {Time} (MEZ - Mitteleuropaeische Zeit).
+CMD_TD       - Die Uhrzeit lautet {Time} Serverzeit (MEZ - Mitteleuropaeische Zeit).
+CMD_DATE     - Heute ist der {date}.
+MONTH_1      - Januar
+MONTH_2      - Februar
+MONTH_3      - März
+MONTH_4      - April
+MONTH_5      - Mai
+MONTH_6      - Juni
+MONTH_7      - Juli
+MONTH_8      - August
+MONTH_9      - September
+MONTH_10     - Oktober
+MONTH_11     - November
+MONTH_12     -Dezember
+
+// Other
+RES_COMBAT  - Das kannst du nicht während eines Gefechts machen.
+RES_NODONE	 - Fehler: Dieser Inhalt ist momentan aufgrund eines Fehlers deaktiviert.
+
+// Economy
+ECON_ATM_TY  - Vielen Dank für die Benutzung des von Argonath RPG zur Verfügung gestellten Geldautomaten!
+ECON_ATM_NC  - Fehler: Du bist gerade nicht an einem Geldautomaten.
+ECON_ATM_CIV - Du hast kein Bankkonto um dieses Gerät zu benutzen. Du musst zuerst ein legaler Bürger werden.
+ECON_ATM_LIM - Fehler: Du kannst keinen höheren Betrag als $100.00 von einem Geldautomaten abheben. Besuche ansonsten bitte die lokale Bank.
+ECON_ATM_POS - Fehler: Du kannst nur positive Beträge abheben.
+ECON_ATM_1m  - Error: Du musst eine Minute warten, um erneut an einem Geldautomaten Geld abzuheben.
+ECON_BNK_N10 - Fehler: Kann nicht länger als 10 Zeichen sein.
+ECON_BNK_DBT - Bank: Verzeihung, du bist verschuldet. Deine Konten wurden eingefroren.
+ECON_BNK_ACC - Das Konto existiert nicht oder du hast kein Zugriff darauf.
+ECON_BNK_FKT - Es gab einen Fehler mit dem eigentlichen Konto.
+ECON_BNK_LRG - Fehler: Der Betrag ist zu hoch.
+ECON_BNK_MIN - Fehler: Der Mindestbetrag lautet $1.
+ECON_BNK_FUN - Fehler: Du hast nicht genug Geld verfügbar und den Betrag abheben zu können.
+ECON_BNK_WNSF- Du besitzt keine zureichenden Mittel um den Auftrag zu stellen.
+ECON_BNK_TY  - Vielen Dank für den Besuch bei der Argonath RPG Bank.
+ECON_BNK_REJ - Transaktion abgelehnt, die Mittel werden nicht übertragen.
+ECON_BNK_PART- Dein Partner muss in der Bank sein!
+ECON_BNK_PSLF- Du kannst kein Partnerkonto mit dir selbst eröffnen.
+ECON_BNK_PNO - Du hast dich gegen das Eröffnen eines Kontos entschieden.
+ECON_BNK_PPNO- Dein Partner hat deinen Wunsch ein Konto zu eröffnen abgelehnt.
+ECON_BNK_LOAD- Fehler: Deine Banken sind noch nicht geladen, bitte warten.
+ECON_BNK_BNK - Fehler: Du must in der Bank sein.
+ECON_BNK_CIV - Fehler: Wir lassen keine Immigranten Bankkonten verwalten. Ein Pass wird zur Verwendung der Bank benötigt.
+ECON_BNK_CRI - Fehler: Die Bank ist aufgrund einer Finanzkrise geschlossen.
+ECON_BNK_GRP - Fehler: Bitte benutze /groupbank um von einem/auf ein Gruppenkonto Geld abzuheben/einzuzahlen.
